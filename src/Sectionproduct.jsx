@@ -1,4 +1,3 @@
-import React from "react";
 import Navbar from "./Component/page/Navbar";
 import { Productdata } from "./DataLoop";
 import Footer from "./Component/page/Footer";

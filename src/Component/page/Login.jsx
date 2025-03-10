@@ -1,4 +1,3 @@
-import React from 'react'
 const Login = ({ closeFunction }) => {
   return (
     <>
@@ -35,7 +34,7 @@ const Login = ({ closeFunction }) => {
             Submit
           </button>
           <div className="accout">
-            No Account?{" "}
+            No Account?
             <span onClick={closeFunction} className="register">
               Register
             </span>

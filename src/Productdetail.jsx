@@ -1,10 +1,9 @@
 import React, { useState } from 'react'
-import { useParams } from 'react-router-dom'
+import { useParams, Link } from 'react-router-dom'
 import { Productdata } from "./DataLoop.jsx";
 import Navbar from "./Component/page/Navbar.jsx";
 import Footer from "./Component/page/Footer.jsx";
 import Login from './Component/page/Login.jsx';
-import { Link } from 'react-router-dom';
 
 const Productdetail = () => {
   const {id} = useParams()

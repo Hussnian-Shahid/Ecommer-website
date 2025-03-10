@@ -77,7 +77,9 @@ const Navbar = ({ ordercount }) => {
               </div>
             </Link>
             <Link to="/categorise" className="linkproduct">
-              <div className="catogory"></div>
+              <div className="catogory">
+                <b>Categorise</b>
+              </div>
             </Link>
 
             <div onClick={convertFunction} className="login">
