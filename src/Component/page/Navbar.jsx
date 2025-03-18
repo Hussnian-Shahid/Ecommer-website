@@ -92,7 +92,7 @@ const Navbar = ({ ordercount }) => {
               <Link to="/Cart">
                 <img
                   className="image3"
-                  src="/public/titleTrollypng.png"
+                  src="/titleTrollypng.png"
                   alt=""
                 />
                 <span className="orders">
