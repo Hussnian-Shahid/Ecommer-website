@@ -47,7 +47,7 @@ const ProductList = ({ Productdata,addingOrder }) => {
                     <div className="imageadding">
                       <img
                         className="image8"
-                        src="/public/cardtrolly.png"
+                        src="/cardtrolly.png"
                         onClick={() => {addingOrder2(product), addingOrder}}
                         alt="Cart Icon"
                       />
