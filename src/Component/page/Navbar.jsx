@@ -51,7 +51,7 @@ const Navbar = ({ ordercount }) => {
             <img
               onClick={valueFunction}
               className="image1"
-              src="./public/search.png"
+              src="/search.png"
             />
             {searchResult.length > 0 &&
               searchResult.map((item, id) => {

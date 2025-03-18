@@ -5,7 +5,7 @@ const Baner = () => {
       <div className="banermain">
         <div className="banersub">
           <div className="banersection">
-            <img className="banerimage" src="/public/banner.webp" />
+            <img className="banerimage" src="/banner.webp" />
           </div>
           <div className='offerdisplay' >
                 <div className="miss">Don't miss this offer</div>
