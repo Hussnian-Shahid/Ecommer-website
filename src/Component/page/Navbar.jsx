@@ -84,7 +84,7 @@ const Navbar = ({ ordercount }) => {
 
             <div onClick={convertFunction} className="login">
               <span>
-                <img className="image2" src="/public/user.png" alt="" />
+                <img className="image2" src="/user.png" alt="" />
               </span>
               <p className="loginname"> Login </p>
             </div>
