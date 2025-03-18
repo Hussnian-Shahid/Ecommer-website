@@ -6,7 +6,7 @@ const Services = () => {
         <div className="subservise">
           <div className="box1">
             <div>
-              <img className="image5" src="/public/free-delivery.png" alt="" />
+              <img className="image5" src="/free-delivery.png" alt="" />
             </div>
             <div className="detailimage">
               <div className="heading-1">
@@ -17,7 +17,7 @@ const Services = () => {
           </div>
           <div className="box1">
             <div>
-              <img className="image5" src="/public/cashback.png" alt="" />
+              <img className="image5" src="/cashback.png" alt="" />
             </div>
             <div className="detailimage">
               <div className="heading-1">
@@ -28,7 +28,7 @@ const Services = () => {
           </div>
           <div className="box1">
             <div>
-              <img className="image5" src="/public/discount.png" alt="" />
+              <img className="image5" src="/discount.png" alt="" />
             </div>
             <div className="detailimage">
               <div className="heading-1">
@@ -41,7 +41,7 @@ const Services = () => {
             <div>
               <img
                 className="image5"
-                src="/public/customer-service.png"
+                src="/customer-service.png"
                 alt=""
               />
             </div>
