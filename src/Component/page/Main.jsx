@@ -14,7 +14,7 @@ const Main = () => {
             <button onClick={Login} className='buttonshop' >Shop Now</button>
           </div>
           <div className="image">
-            <img src="/public/laptop.webp" alt="" />
+            <img src="/laptop.webp" alt="" />
           </div>
         </div>
       </div>

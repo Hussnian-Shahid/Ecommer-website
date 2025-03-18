@@ -46,7 +46,7 @@ const Navbar = ({ ordercount }) => {
               onKeyDown={enterFuntion}
               className="input1"
               type="text"
-              placeholder="Search ffor a product..."
+              placeholder="Search for a product..."
             />
             <img
               onClick={valueFunction}
